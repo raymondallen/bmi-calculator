@@ -9,9 +9,10 @@ The objective of this tutorial was to look at how Flutter Widgets can be customi
 ## App
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). Multi screen app with simple functionality but full-on custom styling. 
-
+App Brewery App
 ![App Brewery App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-![My App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+    My App
+![My App](https://github.com/raymondallen/bmi-calculator/blob/master/bmi-calculator.gif)
 
 ## Learning objectives
 
