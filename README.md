@@ -10,7 +10,8 @@ The objective of this tutorial was to look at how Flutter Widgets can be customi
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). Multi screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![App Brewery App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![My App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ## Learning objectives
 
@@ -29,5 +30,6 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 
 - Incorporated World Health Organisation BMI nutritional status chart for adults
 - Applied colors to the nutritional status categories
+
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
