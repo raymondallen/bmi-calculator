@@ -29,7 +29,7 @@ class Measures {
 }
 
 class _InputPageState extends State<InputPage> {
-  Gender gender;
+  Gender gender = Gender.male;
 
   Measures measures = Measures(height: 175.0, weight: 71, age: 45);
 
@@ -234,14 +234,15 @@ class _InputPageState extends State<InputPage> {
                 onTap: () {
                   Calculator calculator = Calculator(
                       height: measures.height.toInt(), weight: measures.weight);
-
+                  calculator.calculateBMI();
                   Navigator.pushNamed(
                     context,
                     '/result',
                     arguments: BmiArguments(
-                      calculator.bmiScore(),
-                      calculator.bmiText(),
-                      calculator.bmiInterpretation(),
+                      calculator.score.toStringAsFixed(1),
+                      calculator.category,
+                      calculator.categoryColor,
+                      calculator.interpretation,
                     ),
                   );
                 },

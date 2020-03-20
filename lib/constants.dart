@@ -26,7 +26,6 @@ const kTitleTextStyle = TextStyle(
   fontWeight: FontWeight.bold,
 );
 const kBMITextStyle = TextStyle(
-  color: Color(0xff24d876),
   fontSize: 40.0,
   fontWeight: FontWeight.bold,
 );
@@ -35,7 +34,7 @@ const kBMIScoreStyle = TextStyle(
   fontWeight: FontWeight.bold,
 );
 const kBMIInterpretationStyle = TextStyle(
-  fontSize: 22.0,
+  fontSize: 18.0,
   fontWeight: FontWeight.bold,
 );
 const kButtonTextStyle =

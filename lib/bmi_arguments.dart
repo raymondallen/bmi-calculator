@@ -1,7 +1,11 @@
-class BmiArguments {
-  final String bmiScore;
-  final String bmiText;
-  final String bmiInterpretation;
+import 'package:flutter/material.dart';
 
-  BmiArguments(this.bmiScore, this.bmiText, this.bmiInterpretation);
+class BmiArguments {
+  final String score;
+  final String category;
+  final Color categoryColor;
+  final String interpretation;
+
+  BmiArguments(
+      this.score, this.category, this.categoryColor, this.interpretation);
 }

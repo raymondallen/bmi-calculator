@@ -36,15 +36,15 @@ class ResultPage extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    args.bmiText.toUpperCase(),
-                    style: kBMITextStyle,
+                    args.category.toUpperCase(),
+                    style: kBMITextStyle.copyWith(color: args.categoryColor),
                   ),
                   Text(
-                    args.bmiScore,
+                    args.score,
                     style: kBMIScoreStyle,
                   ),
                   Text(
-                    args.bmiInterpretation,
+                    args.interpretation,
                     style: kBMIInterpretationStyle,
                     textAlign: TextAlign.center,
                   ),
