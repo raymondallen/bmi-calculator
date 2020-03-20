@@ -1,17 +1,15 @@
 # BMI Calculator
 
-Section 12 of the App Brewery course "The Complete Flutter Development Bootcamp Using Dart"
+Section 12 of the App Brewery course "The Complete Flutter Development Bootcamp Using Dart".
 
 ## Goal
 
 The objective of this tutorial was to look at how Flutter Widgets can be customised to achieve beautiful user interface designs. 
 
-## App
+## App 
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). Multi screen app with simple functionality but full-on custom styling. 
-App Brewery App
-![App Brewery App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-    My App
+
 ![My App](https://github.com/raymondallen/bmi-calculator/blob/master/bmi-calculator.gif)
 
 ## Learning objectives
