@@ -6,7 +6,6 @@ Section 12 of the App Brewery course "The Complete Flutter Development Bootcamp 
 
 The objective of this tutorial was to look at how Flutter Widgets can be customised to achieve beautiful user interface designs. 
 
-
 ## App
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). Multi screen app with simple functionality but full-on custom styling. 
@@ -25,5 +24,10 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 - Understand Dart Enums and the Ternary Operator.
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
+
+## Customisations
+
+- Incorporated World Health Organisation BMI nutritional status chart for adults
+- Applied colors to the nutritional status categories
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
