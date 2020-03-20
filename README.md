@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # BMI Calculator
 
 Section 12 of the App Brewery course "The Complete Flutter Development Bootcamp Using Dart"
@@ -30,5 +27,3 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 - Understand the difference between const and final in Dart and when to use each.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
