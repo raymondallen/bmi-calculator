@@ -32,3 +32,5 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+[App Brewery Project Repo](https://github.com/londonappbrewery/BMI-Calculator-Completed)
